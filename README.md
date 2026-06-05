@@ -1,0 +1,2 @@
+# A-B-Testing-a-Search-Ranking-System-for-an-Online-Travel-Agency
+In this project, I act as a data scientist at an online travel agency evaluating a new search ranking system through an A/B test. Using Python, I analyze the experiment data, compare conversion rates between the control and treatment groups, and apply statistical testing to make a data-driven recommendation on whether to roll out the system.
